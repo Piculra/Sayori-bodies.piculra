@@ -1,0 +1,28 @@
+{
+    "pack": {
+        "id": "sayori.bodies.piculra",
+        "name": "Alternate Outfits",
+        "characters": [
+            "Sayori"
+        ],
+        "authors": [
+            "Piculra"
+        ],
+        "kind": [
+            "Styles"
+        ],
+        "source": "https://www.reddit.com/8t62u7",
+        "dddg2Path": "http://localhost:4716/repo/sayori.bodies.piculra/index.json",
+        "description": "<a href='https://www.reddit.com/comments/8t62u7' target='_blank' rel='noopener noreferrer'>Created by</a> DestinyPvEGal",
+        "preview": [
+            "http://localhost:4716/repo/sayori.bodies.piculra/23lpc.png",
+            "http://localhost:4716/repo/sayori.bodies.piculra/14rpc.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {
+        "Piculra": {
+            "reddit": "Piculra"
+        }
+    }
+}

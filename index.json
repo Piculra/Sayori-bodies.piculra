@@ -1,0 +1,200 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.sayori",
+    "packId": "sayori.bodies.piculra",
+    "packCredits": "<a href='https://www.reddit.com/comments/8t62u7' target='_blank' rel='noopener noreferrer'>Created by</a> DestinyPvEGal",
+    "packName": "Alternate Outfits",
+    "authors": [
+        "Piculra"
+    ],
+    "source": "https://www.reddit.com/8t62u7",
+    "comicClubUrl": "https://drive.google.com/open?id=1LddghKV1i0eWWjEixHWiBViTNhmQcqfl",
+    "cc2credits": {
+        "left": [
+            "{a=https://www.reddit.com/comments/8t62u7}Monika casual outfit{/a}"
+        ],
+        "right": [
+            "Piculra"
+        ]
+    },
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal_uniform",
+            "style": "uniform",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1lp.png",
+                "./2lp.png",
+                "./3lp.png",
+                "./4lp.png",
+                "./5lp.png",
+                "./6lp.png"
+            ],
+            "right": [
+                "./1rp.png",
+                "./2rp.png",
+                "./3rp.png",
+                "./4rp.png"
+            ]
+        },
+        {
+            "name": "normal_casual",
+            "style": "casual",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1lpc.png",
+                "./2lpc.png",
+                "./3lpc.png",
+                "./4lpc.png",
+                "./5lpc.png",
+                "./6lpc.png",
+                "./7lpc.png",
+                "./8lpc.png",
+                "./9lpc.png",
+                "./10lpc.png",
+                "./11lpc.png",
+                "./12lpc.png",
+                "./13lpc.png",
+                "./14lpc.png",
+                "./15lpc.png",
+                "./16lpc.png",
+                "./17lpc.png",
+                "./18lpc.png",
+                "./19lpc.png",
+                "./20lpc.png",
+                "./21lpc.png",
+                "./22lpc.png",
+                "./23lpc.png",
+                "./24lpc.png",
+                "./25lpc.png"
+            ],
+            "right": [
+                "./1rpc.png",
+                "./2rpc.png",
+                "./3rpc.png",
+                "./4rpc.png",
+                "./5rpc.png",
+                "./6rpc.png",
+                "./7rpc.png",
+                "./8rpc.png",
+                "./9rpc.png",
+                "./10rpc.png",
+                "./11rpc.png",
+                "./12rpc.png",
+                "./13rpc.png",
+                "./14rpc.png",
+                "./15rpc.png"
+            ]
+        },
+        {
+            "name": "sideways_uniform",
+            "style": "uniform",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static":
+                "./1sp.png"
+        },
+        {
+            "name": "sideways_uniform2",
+            "style": "uniform",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static":
+                "./2sp.png" 
+        },
+        {
+            "name": "sideways_uniform3",
+            "style": "uniform",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static":
+                "./3sp.png" 
+        },
+        {
+            "name": "sideways_uniform4",
+            "style": "uniform",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static":
+                "./4sp.png" 
+        },
+        {
+            "name": "sideways_casual",
+            "style": "casual",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static":
+                "./1spc.png" 
+        },
+        {
+            "name": "sideways_casual2",
+            "style": "casual",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static":
+                "./2spc.png"
+            
+        },
+        {
+            "name": "sideways_casual3",
+            "style": "casual",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static":
+                "./3spc.png"
+            
+        },
+        {
+            "name": "sideways_casual_wet",
+            "style": "casual",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static":
+                "./4spc.png"
+            
+        },
+        {
+            "name": "sideways_casual_white",
+            "style": "casual",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static":
+                "./5spc.png"
+            
+        },
+        {
+            "name": "sideways_casual_white",
+            "style": "casual",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static":
+                "./6spc.png"
+            
+        },
+        {
+            "name": "sideways_casual_white",
+            "style": "casual",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static":
+                "./7spc.png"
+            
+        }
+    ]
+}
